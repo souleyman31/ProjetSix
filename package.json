@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Projet 6 La Piiiquante",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Souleymane",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "@angular/cli": "^7.0.2",
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "helmet": "^4.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose-unique-validator": "^2.0.3",
+    "multer": "^1.4.3",
+    "nocache": "^3.0.1",
+    "node-sass": "^4.14.1",
+    "path": "^0.12.7"
+  }
+}
