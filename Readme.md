@@ -1,7 +1,5 @@
 # project6
 
-readme
-
 # INSTALLATION FRONTEND ET BACKEND
 
 # FRONTEND:
