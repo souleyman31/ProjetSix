@@ -1,6 +1,5 @@
 const Sauce = require("../models/Sauce");
 const { sauce } = require("./validate-input");
-//basic
 
 module.exports = (req, res, next) => {
   //   console.log(req.userFromToken);
