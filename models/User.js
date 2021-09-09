@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-//model
 
 const uniqueValidator = require("mongoose-unique-validator");
 
