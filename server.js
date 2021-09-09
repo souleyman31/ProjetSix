@@ -1,6 +1,8 @@
 const http = require("http");
 const app = require("./app");
 
+//app
+
 //IMPROVEMENT FOLDER SERVER.JS
 const normalizePort = val => {
   const port = parseInt(val, 10);

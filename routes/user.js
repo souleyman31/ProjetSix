@@ -1,5 +1,5 @@
 const express = require("express");
-
+//routes
 const router = express.Router();
 
 const userCtrl = require("../controllers/user");

@@ -12,6 +12,7 @@ mongoose
   .connect(process.env.DB_CONNECTION, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => console.log("Connexion à MongoDB réussie !"))
   .catch(() => console.log("Connexion à MongoDB échouée !"));
+//app
 
 //INSTALLATION EXPRESS
 const app = express();
